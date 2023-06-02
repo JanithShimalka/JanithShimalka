@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanithShimalka
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning C, Java, Python, Dart
-
+<br><br>
 <a href="https://twitter.com/@Janith_shimalka" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <a href="https://linkedin.com/in/janith-shimalka-76942b1a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>  <br><br>
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
