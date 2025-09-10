@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects  
 
-- 🎓 **[Virtual Learning Environment](#)** – Laravel-based e-learning platform with user authentication, course & payment management.  
+- 🎓 **[Virtual Learning Environment](#)** – Laravel based e-learning platform with user authentication, course & payment management.  
 - 🏥 **[Medical & Drug Inventory System](#)** – Slim PHP + MySQL app for appointments and stock management.  
 - 💰 **[Financial Management System](#)** – Laravel RESTful API-based platform with real-time reporting.  
 - 🎬 **[Movie Info App](#)** – Flutter + TMDB API for browsing movie data.  
