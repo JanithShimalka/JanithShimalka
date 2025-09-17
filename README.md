@@ -28,45 +28,58 @@
 
 <p align="center">
   
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Virtual-Learning-Environment&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Medical-Drug-Inventory-System&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Financial-Management-System&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Movie-Info-App&theme=radical" />
-  </a>
-
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=AI-Chatbot&theme=radical" />
-  </a>
-
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Image-Classification-Model&theme=radical" />
-  </a>
-
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=IoT-Automation-System&theme=radical" />
-  </a>
-
-  <a href="https://aashtravels.com/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=AASH-Travels&theme=radical" />
-  </a>
-
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=RPTA-Transport-Management&theme=radical" />
-  </a>
-
-  <a href="https://github.com/JanithShimalka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Cango-Ride-Hailing&theme=radical" />
-  </a>
+  <table>
+    <tr>
+      <td width="45%" valign="top">
+        <b>🎓 Virtual Learning Environment</b><br>
+        Laravel-based e-learning platform with authentication, course & payment management.
+      </td>
+      <td width="45%" valign="top">
+        <b>🏥 Medical & Drug Inventory System</b><br>
+        Slim PHP + MySQL system for appointments and inventory management.
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" valign="top">
+        <b>💰 Financial Management System</b><br>
+        Laravel + RESTful APIs with real-time reporting and analytics.
+      </td>
+      <td width="45%" valign="top">
+        <b>🎬 Movie Info App</b><br>
+        Flutter + TMDB API mobile app for browsing movie data.
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" valign="top">
+        <b>🤖 AI Chatbot</b><br>
+        Python + LangChain + Hugging Face for smart conversations & sentiment analysis.
+      </td>
+      <td width="45%" valign="top">
+        <b>🖼️ Image Classification Model</b><br>
+        TensorFlow + Flask web app achieving 90% accuracy with transfer learning.
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" valign="top">
+        <b>🔌 IoT Automation System</b><br>
+        Arduino/ESP8266/ESP32 smart home automation with MQTT protocol.
+      </td>
+      <td width="45%" valign="top">
+        <b>🚌 RPTA Transport Management</b><br>
+        Government transport system for vehicle registration, licensing & authority operations.
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" valign="top">
+        <b>🚖 Cango – Ride-Hailing Platform</b><br>
+        Complete ecosystem for tuk-tuks, cars & bikes with tracking & payment integration.
+      </td>
+      <td width="45%" valign="top">
+        <b>🌍 AASH Travels</b><br>
+        Website + management system for travel operations, bookings, and tours.
+      </td>
+    </tr>
+  </table>
 
 </p>
 
