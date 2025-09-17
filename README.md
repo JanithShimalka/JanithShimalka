@@ -26,17 +26,54 @@
 
 ## 🚀 Featured Projects  
 
-- 🎓 **[Virtual Learning Environment](#)** – Laravel based e-learning platform with user authentication, course & payment management.  
-- 🏥 **[Medical & Drug Inventory System](#)** – Slim PHP + MySQL app for appointments and stock management.  
-- 💰 **[Financial Management System](#)** – Laravel RESTful API-based platform with real-time reporting.  
-- 🎬 **[Movie Info App](#)** – Flutter + TMDB API for browsing movie data.  
-- 🤖 **[AI Chatbot](#)** – Python + LangChain + Hugging Face for customer engagement with sentiment analysis.  
-- 🖼️ **[Image Classification Model](#)** – TensorFlow + Flask web app with 90% accuracy.  
-- 🔌 **[IoT Automation System](#)** – Arduino/ESP8266/ESP32 smart home system with MQTT.  
+<p align="center">
+  
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Virtual-Learning-Environment&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Medical-Drug-Inventory-System&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Financial-Management-System&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Movie-Info-App&theme=radical" />
+  </a>
 
-➡️ More projects on [GitHub](https://github.com/JanithShimalka)  
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=AI-Chatbot&theme=radical" />
+  </a>
+
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Image-Classification-Model&theme=radical" />
+  </a>
+
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=IoT-Automation-System&theme=radical" />
+  </a>
+
+  <a href="https://aashtravels.com/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=AASH-Travels&theme=radical" />
+  </a>
+
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=RPTA-Transport-Management&theme=radical" />
+  </a>
+
+  <a href="https://github.com/JanithShimalka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithShimalka&repo=Cango-Ride-Hailing&theme=radical" />
+  </a>
+
+</p>
 
 ---
+
+➡️ More projects available on [GitHub](https://github.com/JanithShimalka)  
+
 
 ## 📊 GitHub Stats  
 
