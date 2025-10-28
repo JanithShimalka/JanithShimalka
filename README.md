@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,c,html,css,bootstrap,tailwind,react,next,nodejs,nest,express,flask,laravel,mysql,mongodb,firebase,aws,gcp,docker,git,linux,figma,wordpress,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,c,html,css,bootstrap,tailwind,react,next,nodejs,nest,express,redis,rabbitmq,flask,laravel,mysql,mongodb,firebase,aws,gcp,docker,git,linux,figma,wordpress,tensorflow" />
 </p>
 
 ---
