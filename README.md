@@ -5,6 +5,8 @@
 🌱 Currently exploring **Cloud Computing, Flutter, and AI-powered applications**.  
 
 ---
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+---
 
 ## 🌐 Connect with me  
 <p align="center">
