@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td width="45%" valign="top">
-        <b>🚖 Cango – Ride-Hailing Platform</b><br>
+        <b>🚖 Production Level Ride Hailing Platform</b><br>
         Complete ecosystem for tuk-tuks, cars & bikes with tracking & payment integration.
       </td>
       <td width="45%" valign="top">
