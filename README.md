@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanithShimalka/JanithShimalka/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/JanithShimalka/JanithShimalka/output/github-contribution-grid-snake.svg">
 </picture>
----
+
 
 ## 🌐 Connect with me  
 <p align="center">
@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td width="45%" valign="top">
-        <b>🚖 Cango – Ride-Hailing Platform</b><br>
+        <b>🚖 Production Level Ride Hailing Platform</b><br>
         Complete ecosystem for tuk-tuks, cars & bikes with tracking & payment integration.
       </td>
       <td width="45%" valign="top">
