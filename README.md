@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Janith Shimalka  
 
-💡 Associate **Software Engineer at Ceytech System Solution Pvt. Ltd**, passionate about **Full Stack Development, AI/ML, IoT & Cybersecurity**.  
+💡 Senior **Software Engineer at Ceytech System Solution Pvt. Ltd**, passionate about **Full Stack Development, AI/ML, IoT & Cybersecurity**.  
 🚀 I love building apps, chatbots, and machine learning projects while experimenting with fun side projects.  
 🌱 Currently exploring **Cloud Computing, Flutter, and AI-powered applications**.  
 
